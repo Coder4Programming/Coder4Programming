@@ -1,5 +1,5 @@
 - 👋 Hi, I’m P H Hacker
-- 👀 I’m interested in Hacking & Coding
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning C/C++/C#
 - 💞️ I’m looking to collaborate on Coder
 - 📫 How to reach me Gmail- lenevov15laptop@gmail.com
